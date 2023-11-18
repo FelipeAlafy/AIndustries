@@ -1,5 +1,7 @@
 package com.github.felipealafy;
 
+import com.github.felipealafy.block.ModBlocks;
+import com.github.felipealafy.item.ModItemGroups;
 import com.github.felipealafy.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -14,5 +16,8 @@ public class AIndustries implements ModInitializer {
 	public void onInitialize() {
 		LOGGER.info("AIndustries loading");
 		ModItems.RegisterModItems();
+		ModBlocks.RegisterModBlocks();
+
+		ModItemGroups.RegisterItemGroups();
 	}
 }
