@@ -1,4 +1,7 @@
 {
+  "itemgroup.ruby": "AIndustries Ores And Gems",
   "item.aindustries.ruby": "Ruby",
-  "item.aindustries.raw_ruby": "Raw Ruby"
+  "item.aindustries.raw_ruby": "Raw Ruby",
+  "block.aindustries.ruby_block": "Block of Ruby",
+  "block.aindustries.ruby_ore": "Ore of Ruby"
 }
