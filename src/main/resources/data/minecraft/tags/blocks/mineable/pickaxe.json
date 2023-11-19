@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "aindustries:ruby_block",
+    "aindustries:ruby_ore",
+    "aindustries:deepslate_ruby_ore",
+    "aindustries:nether_ruby_ore",
+    "aindustries:end_ruby_ore"
+  ]
+}

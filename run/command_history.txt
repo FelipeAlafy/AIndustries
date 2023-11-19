@@ -1,0 +1,27 @@
+/gamemode sur
+/gamemode survival
+/give @s minecraft:netherite_pickaxe
+/time set day
+/give @s minecraft:stone_pickaxe
+/give @s minecraft:wood_pickaxe
+/give @s minecraft:wooden_pickaxe
+/give @s minecraft:iron_pickaxe
+/give @s minecraft:diamond_pickaxe
+/give @s aindustries:ruby_ore 64
+/effect give @a minecraft:haste 99
+/effect give @a minecraft:haste 99 5
+/effect clear @a
+/effect give @a minecraft:haste 99 5
+/effect give @a minecraft:haste 99 255
+/effect clear @a
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/time set dayy
+/time set day
+/gamerule doDaylightCycle false
+/gamemode survival
+/give @a minecraft:acacia_sign
+/give @s minecraft:netherite_pickaxe
+/gamemode creative
+/gamemode survival
