@@ -21,6 +21,9 @@ public class ModItemGroups {
                         //Block Items
                         entries.add(ModBlocks.RUBY_BLOCK);
                         entries.add(ModBlocks.RUBY_ORE);
+                        entries.add(ModBlocks.DEEPSLATE_RUBY_ORE);
+                        entries.add(ModBlocks.NETHER_RUBY_ORE);
+                        entries.add(ModBlocks.END_RUBY_ORE);
                     }).build());
     public static void RegisterItemGroups() {
         AIndustries.LOGGER.info("Registering " + AIndustries.MOD_ID + " ItemGroups");
