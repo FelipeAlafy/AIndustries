@@ -17,6 +17,7 @@ public class ModItemGroups {
                         //Items
                         entries.add(ModItems.RUBY);
                         entries.add(ModItems.RAW_RUBY);
+                        entries.add(ModItems.ORE_FINDER);
 
                         //Block Items
                         entries.add(ModBlocks.RUBY_BLOCK);

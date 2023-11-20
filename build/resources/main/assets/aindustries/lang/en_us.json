@@ -2,10 +2,11 @@
   "itemgroup.ruby": "AIndustries Ores And Gems",
   "item.aindustries.ruby": "Ruby",
   "item.aindustries.raw_ruby": "Raw Ruby",
-  "block.aindustries.ruby_block": "Block of Ruby",
+  "item.aindustries.ore_finder": "Ore Finder",
 
+  "block.aindustries.ruby_block": "Block of Ruby",
   "block.aindustries.ruby_ore": "Ruby Ore",
-  "block.aindustries.deepslate_ruby_ore": "Deepslate ruby ore",
-  "block.aindustries.nether_ruby_ore": "Nether ruby ore",
-  "block.aindustries.end_ruby_ore": "End ruby ore"
+  "block.aindustries.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.aindustries.nether_ruby_ore": "Nether Ruby Ore",
+  "block.aindustries.end_ruby_ore": "End Ruby Ore"
 }
